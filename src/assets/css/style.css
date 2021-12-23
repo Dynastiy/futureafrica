@@ -1,0 +1,34 @@
+html,
+body,
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.bg-main {
+    background-color: #3CAC70;
+}
+
+.text-main {
+    color: #3CAC70;
+}
+
+.main-outline {
+    border: 1px solid #3CAC70;
+}
+
+.bg-sec {
+    background-color: #FBBB07;
+}
+
+.text-sec {
+    color: #FBBB07;
+}
+
+.sec-outline {
+    border: 1px solid #FBBB07;
+}
+
+.bg-red {
+    background-color: #ff0000;
+}

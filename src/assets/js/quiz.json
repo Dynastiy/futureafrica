@@ -1,0 +1,44 @@
+{
+    "title": "Venture Capital Quiz",
+    "questions": [{
+            "text": "What is a Term Sheet?",
+            "responses": [
+                { "text": "It is another term for 'executive summary'." },
+                { "text": "There is no limit" },
+                { "text": " It is a document which stipulates the term of the investment.", "correct": true }
+            ]
+        },
+        {
+            "text": "Venture capital is invested in",
+            "responses": [
+                { "text": "Early stage firms with short-term growth potential" },
+                { "text": "Early stage firms with long-term growth potential", "correct": true },
+                { "text": "Early stage firms which do not plan for growth" }
+            ]
+        },
+        {
+            "text": "What is meant by Post-money valuation?",
+            "responses": [
+                { "text": "It is the expected value of the company after it has received the venture capital investment.", "correct": true },
+                { "text": "It is the expected value of the company before it has received the venture capital investment." },
+                { "text": "It is the expected value of the company after five years." }
+            ]
+        },
+        {
+            "text": " What do veto rights allow the venture capitalist to do?",
+            "responses": [
+                { "text": "Overturn decisions made by the company directors", "correct": true },
+                { "text": "Call board meetings at any point" },
+                { "text": "Require liquidation within 30 days" }
+            ]
+        },
+        {
+            "text": "A company with a limited operating history means that",
+            "responses": [
+                { "text": "It was set up at least 10 years before" },
+                { "text": "It is no more than 2 years old", "correct": true },
+                { "text": "It has limited start-up costs" }
+            ]
+        }
+    ]
+}
